@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab 1 app</string>
+    <string name="product">Product</string>
+    <string name="title">Title</string>
+    <string name="thats_headline">Это заголовок</string>
+    <string name="text_body">А это текст полный смысла и очень большой, наверное тут должно быть описание сказочного персонажа или ещё кого-то, вообщем смысл простой - длинный текст, а ещё он не доходит до конца экрана, это фича =)</string>
+    <string name="switch_caption">Меняет цвет фона карточки выше при переключении</string>
+    <string name="share">Поделится</string>
+    <string name="like">Лайк</string>
+    <string name="header">Header</string>
+    <string name="subhead">Subhead</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="card_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="enabled">Enabled</string>
+</resources>
